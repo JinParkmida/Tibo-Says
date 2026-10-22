@@ -14,10 +14,6 @@
 
 ---
 
-Sometimes [Tibo](https://x.com/thsottiaux) says something about free Codex usage resets. I would like to know when that happens without opening X.
-
-That's the app.
-
 ## What it does
 
 <img src="docs/assets/how-it-works.svg" alt="01: Check configured sources, every five minutes by default. 02: Highlight matching words, including Codex and reset. 03: Alert on relevant new posts. The question mark is intentional." width="100%">
@@ -154,5 +150,4 @@ I had Python and a very specific problem.
 ---
 
 <p align="center">
-  <sub>Displays Tibo's tweets on your desktop.<br>If you don't know why you'd want that, you probably don't need it.</sub>
 </p>
