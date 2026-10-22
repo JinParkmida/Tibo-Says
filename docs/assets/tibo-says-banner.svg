@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc">
+  <title id="title">Tibo says</title>
+  <desc id="desc">Displays Tibo's tweets on your desktop. If you don't know why you'd want that, you probably don't need it.</desc>
+  <rect width="1600" height="500" fill="#f5f0e6"/>
+  <text x="84" y="252" fill="#20201d" font-family="Arial Black, Arial, Helvetica, sans-serif" font-size="190" font-weight="900" letter-spacing="-9">Tibo says</text>
+  <g fill="#20201d" font-family="Arial, Helvetica, sans-serif" font-size="38">
+    <text x="88" y="354">Displays Tibo's tweets on your desktop.</text>
+    <text x="88" y="414">If you don't know why you'd want that, you probably don't need it.</text>
+  </g>
+</svg>

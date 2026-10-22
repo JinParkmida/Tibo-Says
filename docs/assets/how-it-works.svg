@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">A very small chain of events</title>
+  <desc id="desc">Check configured sources. Highlight matching words. Alert on relevant new posts. The question mark is intentional.</desc>
+  <rect width="1200" height="300" rx="16" fill="#1e1e1b"/>
+  <g fill="none" stroke="#4a4941"><path d="M400 32v236M800 32v236"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#f2bb64" font-size="15" letter-spacing="2"><text x="32" y="44">01 / CHECK</text><text x="432" y="44">02 / MATCH</text><text x="832" y="44">03 / NOTICE</text></g>
+    <g fill="none" stroke="#f2bb64" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+      <rect x="33" y="75" width="72" height="61" rx="8"/><path d="M46 92h45M46 105h31M46 118h39"/>
+      <path d="M433 91h83M433 115h62"/><rect x="452" y="76" width="42" height="30" rx="4" fill="#f2bb64" stroke="none"/><path d="m463 90 6 6 13-13" stroke="#1e1e1b"/>
+      <path d="M841 121h50l-8-13V93a17 17 0 0 0-34 0v15l-8 13Zm17 10a8 8 0 0 0 16 0"/><circle cx="891" cy="77" r="6" fill="#f2bb64" stroke="none"/>
+    </g>
+    <g fill="#f5f1e8" font-size="29" font-weight="600"><text x="32" y="183">He posts.</text><text x="432" y="183">A word matches.</text><text x="832" y="183">You notice.</text></g>
+    <g fill="#bdb9ad" font-size="18"><text x="32" y="218">Configured sources.</text><text x="32" y="244">Every five minutes by default.</text><text x="432" y="218">Codex. Usage limit. Reset.</text><text x="432" y="244">Substrings. Nothing mystical.</text><text x="832" y="218">Relevant new posts get an alert.</text><text x="832" y="244">The question mark is intentional.</text></g>
+  </g>
+</svg>
